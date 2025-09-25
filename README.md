@@ -9,7 +9,7 @@ I’m **Rayyan Zain**, a Product Designer & AI Automation Specialist with 4+ yea
 
 At **Disrupt.com**, I design and optimize SaaS platforms, enterprise dashboards, and design systems that scale. My strength lies in merging **design thinking with AI & automation** — transforming complex workflows into seamless user experiences.  
 
-Beyond design, I specialize in **no-code/low-code automation** using tools like **n8n, Make.com, Zapier, V0.dev, Bolt.new, TempoAI, LangChain, and MCP Servers**. **I’ve built AI agents that automate GTM strategies, design operations, and product pipelines** — helping teams move faster with less effort.  
+Beyond design, I specialize in **no-code/low-code automation** using tools like **n8n, Make.com, Zapier, V0.dev, Bolt.new, TempoAI, Claude Code, RAG and MCP Servers**. **I’ve built AI agents that automate GTM strategies, design operations, and product pipelines** — helping teams move faster with less effort.  
 
 I’m also the **Co-Founder of Internee.pk**, where I created a platform to connect students and employers, scaling opportunities for fresh talent.  
 
